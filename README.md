@@ -12,7 +12,7 @@ NOTE: Tool **MUST** be run on an admin account but does not need to be *‘Run a
       **ALSO**, You can only remotely access Pro versions of Windows and higher, Home Edition does **NOT** allow RDP.
 	  
 
-**Features***
+**Features**
 * Enables Remote Access on target Computer.
 * Enables Remote Access in Firewall rules.
 * Generates and set new windows account password.
@@ -41,4 +41,5 @@ NOTE: Tool **MUST** be run on an admin account but does not need to be *‘Run a
 - [x] Various remote server types supported aswell.
 
 **PURCHASE SOURCE CODE HERE**-> coming soon
+
 *Coded in Visual Studio, C# Winforms .NET Framework 4.7.2*
