@@ -2,6 +2,7 @@
 
 Windows Account Manipulation Tool (Remote Enables + More)
 ![Remote Accessor Logo](https://www.creativefabrica.com/wp-content/uploads/2019/03/Monogram-RA-Logo-Design-by-Greenlines-Studios-580x386.jpg)
+
 This tool can gain access to computer systems all around the world with just a few simple lines.
 *Remote Accessor* is Undetected by Microsoft, AVS, Kaspersky, Malwarebytes and lots of other AV’s.
 
@@ -12,7 +13,6 @@ NOTE: Tool **MUST** be run on an admin account but does not need to be *‘Run a
 	  
 
 **Features***
-—————————
 * Enables Remote Access on target Computer.
 * Enables Remote Access in Firewall rules.
 * Generates and set new windows account password.
@@ -23,22 +23,17 @@ NOTE: Tool **MUST** be run on an admin account but does not need to be *‘Run a
 * Logs deliver via discord webhook to discord server.
 
 **Log Example**
-————————————-
+
 ![Log Example](/images/logo.png)
 
 **Demo Video**
-————————————
 
 
 **Supported OS**
-————————————-
 - [x] Windows
 - [ ] Linux
-- [ ] Debian
-- [ ] Ubuntu
 
 **Supported Versions**
-———————————————————
 - [x] Windows 98
 - [x] Windows 7
 - [x] Windows 8/8.1
