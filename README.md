@@ -27,7 +27,7 @@ NOTE: Tool **MUST** be run on an admin account but does not need to be *‘Run a
 ![Log Example](https://i.imgur.com/2lCI0Hg.jpg)
 
 **Demo Video**
-
+https://youtu.be/P5lClbGmSJQ
 
 **Supported OS**
 - [x] Windows
